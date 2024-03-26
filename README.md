@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next.js, JavaScript, Node.js**
 
-- 📫 How to reach me **kumar.rahul.2017354@gmail.com@gmail.com**
+- 📫 How to reach me **kumar.rahul.2017354@gmail.com**
 
 - 📄 Know about my experiences [https://webfolio-rahul4019.vercel.app](https://rahul-po-rt-folio.netlify.app/)
 
