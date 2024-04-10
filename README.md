@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumar.rahul.2017354@gmail.com**
 
-- 📄 Know about my experiences [https://rahul-po-rt-folio.netlify.app/](https://rahul-po-rt-folio.netlify.app/)
+- 📄 Know about my experiences [https://rahul-portfolio-tsx.vercel.app/](https://rahul-portfolio-tsx.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
